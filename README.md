@@ -21,7 +21,11 @@ Built and tested using Google Colab.
 3).Open and run yolov5.ipynb in Jupyter Notebook or Google Colab.
 
 🚀 Technologies
+
 YOLOv5
+
 PyTorch
+
 Jupyter Notebook
+
 Google Colab
